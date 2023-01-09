@@ -9,8 +9,8 @@ title: 'About'
 
 ### Hey!
 
-I am Carlos, a Research Consultant at the [Public Management School of the Universidad del Pacífico](https://www.up.edu.pe/egp/){:target="_blank"} in Lima, Perú, and the Co-director of Evidencia [ZOE Institute for future-fit economies](https://zoe-institut.de/en/startpage/){:target="_blank"}. Next to my PhD, I'm also doing a Masters in Philosophy at [Fernuniversität Hagen](https://www.fernuni-hagen.de/KSW/portale/maphil/){:target="_blank"}.
+I am Carlos, a Research Consultant at the [Public Management School of the Universidad del Pacífico](https://www.up.edu.pe/egp/){:target="_blank"} in Lima, Perú, and the Co-director of [Evidencia](https://evidencia-pe.com/blog/){:target="_blank"}. Prior to my current job position, I worked in a subnational public administration ([Gobierno Regional La Libertad](https://www.gob.pe/regionlalibertad){:target="_blank"}) as a Data Analyst. I hold a Bachelor of Science in Economics from Universidad Privada del Norte (Trujillo, Perú). 
 
-As an ecological economist, my current [research](02_research.markdown) focuses on linking social and ecological perspectives, especially around questions on labor. In the past, I have [published](/03_publications.markdown) on feminist ecological economics, degrowth and philosophy of (plural) economics. In my free time, I play [foosball](https://www.youtube.com/watch?v=Et2e1_NCzwA){:target="_blank"} semi-professionally, and I like to sing, roller skate, and run.
+I have particular interest in the intersection between social development and public policies, making use of data and quantitative tools. My current [research](02_research.markdown) focuses on regional economies, labor and gender, within the framework of sustainable development. Recently, I have collaborated preparing a [report] (https://www.up.edu.pe/egp/observatorio/informe-ODS-Peru-observatorio-politicas-publicas-escuela-gestion-publica-universidad-pacifico/){:target="_blank"}) that monitors the progress of the Sustainable Development Goals in Peru and it's 26 regions. I like tropicália music, geography and running.
 
-Feel free to get in touch via [email](mailto:birte@strunk-mg.de) or [twitter](https://twitter.com/BirteStrunk){:target="_blank"}!
+Feel free to get in touch via [email](mailto:caerevoredo@gmail.com) or [twitter](https://twitter.com/caerevoredo){:target="_blank"}!
