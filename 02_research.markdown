@@ -42,8 +42,6 @@ I have particular interest in the intersection between social development and pu
     <summary>El éxodo cajamarquino: un estudio de las emigraciones a nivel provincial</summary>
     <br />
     This is a project in an early stage..
-
-<br />
     
 ### In progress
 <br />
