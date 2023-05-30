@@ -49,10 +49,10 @@ I have particular interest in the intersection between social development and pu
 <details>
     <summary>Post-growth dialectics: A post-growth transition as a threat or a promise?</summary>
     <br />
-    This is a paper I wrote for a philosophy class in Environmental Ethics, and I am working on bringing it to a stage ready for submission. In it, I make the argument that the discourse around a post-growth transition entails a core dialectic: The narrative around the shift can be framed in terms of threat or promise. Both stories are inherently contradictory, while both being true. Although it is conventional wisdom that any transition implies both challenges and opportunities, the task of this paper is specifically to work out how the degrowth discourse can systematically be structured around being threat- or promise-focused, and that the differences in focus imply different ethics: while the threat narrative implies what I call an ‘ethics of constraint’, the promise narrative is based on an ‘ethics of abundance’. Being clear about the two different tales of degrowth transitions, I argue in the paper, is relevant to navigate the challenge ahead without getting (too) lost in misunderstandings and cross-talking.
+    This is a paper I wrote for a philosophy class in Environmental Ethics, and I am working on bringing it to a stage ready for submission. In it, I make the argument that the discourse around a post-growth transition entails a core dialectic: The narrative around the shift can be framed in terms of threat or promise. Both stories are inherently contradictory, while both being true. Although it is conventional wisdom that any transition implies both challenges and opportunities, the task of this paper is specifically to work out how the degrowth discourse can systematically be structured around being threat- or promise-focused, and that the differences in focus imply different ethics: while the threat narrative implies what I call an ‘ethics of constraint’, the promise narrative is based on an ‘ethics of abundance’. Being clear about the two different tales of degrowth transitions, I argue in the paper, is relevant to navigate the challenge ahead without getting (too) lost in misunderstandings and cross-talking.</details>
 <br />
     
-## In progress
+### Working papers
 <br />
 
 <details>
