@@ -23,14 +23,13 @@ I have particular interest in the intersection between social development and pu
     <summary>Do they actually work? Social conflict duration and conflict resolution mechanisms in Peru (with José Gallegos) </summary>
     <br />
     We explore how a strategy that promotes dialogue among conflicting parties through dialogue spaces and the generation of commitments may have an effect on the duration of social conflicts (and therefore in its effectiveness in reducing potential risks) in Peru. Using survival-time models and a novel administrative dataset, we found that establishing a dialogue space increases the duration of conflict cases by 20 months, with the generation of commitments exacerbating this effect by 0.76 months, after controlling for several contextual characteristics.
-    
+    <details>
+        
 <br />
 <details>
     <summary>Child abuse and violence agaisnt women: What's the connection? </summary>
     <br />
     This is a project in an early stage.
-
-
 </details>
 
 <br />
@@ -46,16 +45,18 @@ I have particular interest in the intersection between social development and pu
     <summary>A simple theoretical model of resource-related social conflict</summary>
     <br />
     I developt a mathematical model to analyze what originates resource-related conflicts and what drives their intensity and duration. The model incorporate key concepts such as horizontal inequality and relative deprivation, land use, information asymmetry and commitments. 
-
 </details>
+
  <br />
 <details>
     <summary> "Well, she asked for it": Factors associated with social tolerance of violence agaisnt women in Peru.</summary>
     <br />
     This is a research project . 
-    
+    <details>
+        
  <br />
 <details>
     <summary> ¿Empodera la educación a las mujeres? El impacto de la educación sobre la violencia de pareja (with Juan Salavarriga).</summary>
     <br />
     This is a research project . 
+    <details>
