@@ -11,10 +11,7 @@ permalink: /research/
 I have particular interest in the intersection between social development and public policies, making use of data and quantitative tools. My current research focuses on regional economies, violence, conflict and gender.
 
 ### Working papers
-<br />
-I have particular interest in the intersection between social development and public policies, making use of data and quantitative tools. My current research focuses on regional economies, violence, conflict and gender.
 
-### Working papers
 <br />
 <details>
     <summary>Trust in institutions and social conflicts in Peru: A first approach</summary>
@@ -31,9 +28,9 @@ I have particular interest in the intersection between social development and pu
 
 <br />
 <details>
-    <summary>Child abuse and violence against women: What's the connection?</summary>
+    <summary>¿Empodera la educación a las mujeres? El impacto de la educación sobre la violencia de pareja (with Juan Salavarriga)</summary>
     <br />
-    This is a project in an early stage.
+    This is a research project.
 </details>
 
 <br />
@@ -60,7 +57,7 @@ I have particular interest in the intersection between social development and pu
 
 <br />
 <details>
-    <summary>¿Empodera la educación a las mujeres? El impacto de la educación sobre la violencia de pareja (with Juan Salavarriga)</summary>
+    <summary>Child abuse and violence against women: What's the connection?</summary>
     <br />
-    This is a research project.
+    This is a project in an early stage.
 </details>
