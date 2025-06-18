@@ -16,12 +16,11 @@ I have particular interest in the intersection between social development and pu
     <summary>Trust in institutions and social conflicts in Peru: A first approach</summary>
     <br />
     This paper explores the relationship between two social common phenomenon in Peru: distrust in public institutions and social conflict. Using administrative data from the Ombudsman's Office and combining them with data from a household survey, I found a negative and significant relationship between the presence of social conflicts in districts where they have had some level of influence and citizens' trust in six important Peruvian institutions.
-
+<details>
 
 <br />
 <details>
     <summary>Do they actually work? Social conflict duration and conflict resolution mechanisms in Peru (with José Gallegos) </summary>
-    <br />
     We explore how a strategy that promotes dialogue among conflicting parties through dialogue spaces and the generation of commitments may have an effect on the duration of social conflicts (and therefore in its effectiveness in reducing potential risks) in Peru. Using survival-time models and a novel administrative dataset, we found that establishing a dialogue space increases the duration of conflict cases by 20 months, with the generation of commitments exacerbating this effect by 0.76 months, after controlling for several contextual characteristics.
     <details>
         
