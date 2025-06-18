@@ -16,7 +16,7 @@ I have particular interest in the intersection between social development and pu
     <summary>Trust in institutions and social conflicts in Peru: A first approach</summary>
     <br />
     This paper explores the relationship between two social common phenomenon in Peru: distrust in public institutions and social conflict. Using administrative data from the Ombudsman's Office and combining them with data from a household survey, I found a negative and significant relationship between the presence of social conflicts in districts where they have had some level of influence and citizens' trust in six important Peruvian institutions.
-</details>
+
 
 <br />
 <details>
